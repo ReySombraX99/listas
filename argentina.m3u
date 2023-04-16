@@ -3317,7 +3317,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="MEXICO", CANAL 10 CANCUN
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/5b5b76f51f668dce9998af7d0aa25f28.png" group-title="MEXICO", Canal 10 Chiapas
@@ -3447,6 +3447,9 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/f67fad1f4bbfcb3e312c2211a903bd4e.png" group-title="MEXICO", UMTV
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="MEXICO" , Las Estrellas (1080p)
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/8a3218def129b372d3c596ac36942e40.png" group-title="COSTA RICA", Canal 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
