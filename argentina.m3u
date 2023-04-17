@@ -4181,6 +4181,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="CINE",Paramount+ Presenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a0i0.png" group-title="MUSICA",MTV 00s HD
+http://45.5.118.226:8000/play/a0i0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a0ge.png" group-title="MUSICA",MTV 80s
+http://45.5.118.226:8000/play/a0ge/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a0gm.png" group-title="MUSICA",MTV HD
+http://45.5.118.226:8000/play/a0gm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a0gd.png" group-title="MUSICA",MTV Hits
+http://45.5.118.226:8000/play/a0gd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a0hz.png" group-title="MUSICA",MTV Live HD
+http://45.5.118.226:8000/play/a0hz/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="MUSICA",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
