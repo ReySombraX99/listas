@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:0,A&E HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00n
+#EXTINF:0,AMERICA HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01i
+#EXTINF:0,AXN HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a012
+#EXTINF:0,AZ click HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00s
+#EXTINF:0,Animal Planet HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00m
+#EXTINF:0,CARTOON NT HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00c
+#EXTINF:0,CINECANAL HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00w
+#EXTINF:0,DHE HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00r
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01b
+#EXTINF:0,Discovery ID HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01f
+#EXTINF:0,Discovery Kids HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a009
+#EXTINF:0,Discovery World HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01c
+#EXTINF:0,ESPN +
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00j
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a016
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a015
+#EXTINF:0,ESPN 4 HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a011
+#EXTINF:0,ESPN HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a014
+#EXTINF:0,FOX SPORTS 2 HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00x
+#EXTINF:0,FOX SPORTS 3 HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a017
+#EXTINF:0,FX HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00p
+#EXTINF:0,Golden Premiere HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00a
+#EXTINF:0,HBO Family HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00g
+#EXTINF:0,HBO HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00d
+#EXTINF:0,HBO Plus HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00f
+#EXTINF:0,HBO XTREME
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00h
+#EXTINF:0,HBO2 HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00e
+#EXTINF:0,History HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00i
+#EXTINF:0,Home & Health HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00z
+#EXTINF:0,Nat Geo HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a018
+#EXTINF:0,Paramount HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a019
+#EXTINF:0,Pasiones HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01d
+#EXTINF:0,SONY HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00v
+#EXTINF:0,SPACE HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a013
+#EXTINF:0,STAR CHANNEL HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00t
+#EXTINF:0,Sony Movies HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00q
+#EXTINF:0,Studio Universal HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00l
+#EXTINF:0,TNT HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00y
+#EXTINF:0,TNT Series HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01a
+#EXTINF:0,Teen Nick HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00k
+#EXTINF:0,Telemundo HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00o
+#EXTINF:0,UNIVERSAL CINEMA ESTE HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01g
+#EXTINF:0,UNIVERSAL PREMIERE HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a010
+#EXTINF:0,Univision HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a01e
+#EXTINF:0,WARNER HD
+#EXTGRP:unsorted
+http://191.97.58.41:8000/play/a00u
